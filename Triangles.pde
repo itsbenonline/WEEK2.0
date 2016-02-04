@@ -1,3 +1,11 @@
+int x1 = 10;
+int x2 = 0;
+int x3 = 20;
+int y1 = 0;
+int y2 = 20;
+int y3 = 20;
+int i= 0;
+
 void setup() {
   size(600,600);
   noStroke();
