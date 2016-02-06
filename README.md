@@ -27,7 +27,7 @@ hold your head high, and let the disco into your life...
      {  `.__.' (          /         }
       \ \    )  )        /          !
        \-\`-'`-'        /  ,    1  J;
-  ` `   \ \___l,-_,___.'  /1    !  Y
+ |` `   \ \___l,-_,___.'  /1    !  Y
    ) )   k____-~'-l_____.' |    l /
  .'.'   /===#==\           l     f
       .'        `.         I===I=I
