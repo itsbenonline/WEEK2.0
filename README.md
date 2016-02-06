@@ -5,7 +5,6 @@ Hello, This week we will learn how to create proceesing images. It will test you
 stronger.
 
 hold your head high, and let the disco into your life...
-
 _______ad88888888888888888888888a, 
 ________a88888"8888888888888888888888, 
 ______,8888"__"P88888888888888888888b, 
@@ -165,3 +164,4 @@ ___________________________`8,___-I8'
 ____________________________`8,,--I8 
 _____________________________`Ib,,I8 
 ______________________________`I8I
+.
