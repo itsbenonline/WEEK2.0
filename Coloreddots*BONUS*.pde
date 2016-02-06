@@ -2,7 +2,7 @@ void setup(){
 size(383, 400);
 background(255);
 noStroke();
-//DISO TIME
+//DISO TIME WITH CLICK! soo.. CLICK!
 }
 
 void draw() {
