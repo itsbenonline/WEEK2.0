@@ -1,6 +1,6 @@
 void setup(){
 size(383, 400);
-background(0);
+background(255);
 noStroke();
 //DISO TIME
 }
@@ -51,8 +51,12 @@ void draw() {
     //YEEEHAW! HOW DO YOU ADD MUSIC?!?!?!?!?!??!
 
     i=i+15;
+  }
+  if (mousePressed == true) {
+    background(random(255));
 
-
+//CLICK!
   
   }
+
 }
